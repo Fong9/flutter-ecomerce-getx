@@ -1,4 +1,4 @@
-# flutter_application_1
+# Ecommerce Project using GetX  
 
 A new Flutter project.
 
