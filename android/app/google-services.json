@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "792926617532",
+    "project_id": "ecomerce-getx",
+    "storage_bucket": "ecomerce-getx.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792926617532:android:f851c282403b0b71faf5b9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792926617532-791dlvkgvisktsf2lp4scpvc7tabitul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbdIC4Vf8_gsoVsaNwDHUQ5CV7IvD2tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792926617532-791dlvkgvisktsf2lp4scpvc7tabitul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
