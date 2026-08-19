@@ -5,5 +5,6 @@
     "other": "on"
   },
   "editor.suggestOnTriggerCharacters": true,
-  "editor.inlineSuggest.enabled": false
+  "editor.inlineSuggest.enabled": false,
+  "java.configuration.updateBuildConfiguration": "automatic"
 }
