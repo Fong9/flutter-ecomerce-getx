@@ -37,7 +37,7 @@ class _LoginScreenState extends State<LoginScreen> {
       body: SingleChildScrollView(
         child: Column(
           children: [
-            ClipOval(child: Image.asset(Images.mypic, width: 200,)),
+            SvgPicture.asset(Images.logo,),
             SizedBox(height: 20),
             Column(
               children: [

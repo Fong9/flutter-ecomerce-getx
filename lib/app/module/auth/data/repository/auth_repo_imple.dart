@@ -1,7 +1,7 @@
-import 'package:flutter_application_1/app/module/auth/api/api_endpoint_service.dart';
-import 'package:flutter_application_1/app/module/auth/models/auth_model.dart';
-import 'package:flutter_application_1/app/module/auth/models/user_model.dart';
-import 'package:flutter_application_1/app/module/auth/repository/auth_repo.dart';
+import 'package:flutter_application_1/app/module/auth/data/api/api_endpoint_service.dart';
+import 'package:flutter_application_1/app/module/auth/data/models/auth_model.dart';
+import 'package:flutter_application_1/app/module/auth/data/models/user_model.dart';
+import 'package:flutter_application_1/app/module/auth/data/repository/auth_repo.dart';
 
 class AuthRepoImple extends AuthRepo {
   final ApiService _apiService;

@@ -1,4 +1,4 @@
-import 'package:flutter_application_1/app/module/auth/models/user_model.dart';
+import 'package:flutter_application_1/app/module/auth/data/models/user_model.dart';
 
 class AuthModel {
   final String? token;

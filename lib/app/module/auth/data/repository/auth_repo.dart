@@ -1,5 +1,5 @@
-import 'package:flutter_application_1/app/module/auth/models/auth_model.dart';
-import 'package:flutter_application_1/app/module/auth/models/user_model.dart';
+import 'package:flutter_application_1/app/module/auth/data/models/auth_model.dart';
+import 'package:flutter_application_1/app/module/auth/data/models/user_model.dart';
 
 abstract class AuthRepo {
   Future<AuthModel> login({

@@ -15,7 +15,7 @@ class SplashScreen extends GetView<SplashController> {
         child: Column(
           mainAxisAlignment: .spaceEvenly,
           children: [
-            ClipOval(child: Image.asset(Images.mypic, width: 200,)),
+            SvgPicture.asset(Images.logo, width: 200,),
             CircularProgressIndicator()
           ],
         ),

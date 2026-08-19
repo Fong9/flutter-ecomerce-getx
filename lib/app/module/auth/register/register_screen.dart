@@ -39,7 +39,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
       body: SingleChildScrollView(
         child: Column(
           children: [
-            ClipOval(child: Image.asset(Images.mypic, width: 200,)),
+            SvgPicture.asset(Images.logo, width: 200,),
             SizedBox(height: 20),
             Column(
               children: [
